@@ -32,11 +32,11 @@
                 Finds and shall find me unafraid.
             </p>
 
-            <p class="pclass pitalics">
+            <p class="pclass pitalics"> <b>
                 It matters not how strait the gate,
                 How charged with punishments the scroll,
                 I am the master of my fate,
-                I am the captain of my soul.
+                I am the captain of my soul. </b>
             </p>
         </section>
 
@@ -54,35 +54,3 @@
 </body>
 
 </html>
-
-.pclass { text-align:center; text-family: Arial,Helvetica, sans-serif; font-size: 20px }
-
-.pitalics { 
-font-style: Italic;
-font-family: bold;
-}
-
-body { margin: 0 auto;
-    display: block;
-}
-
-.container {
-    max-width: 400px;
-    margin:auto;
-}
-
-section {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-h1 { 
-    margin: 30px auto 0; 
-    text-transform: uppercase;
-}
-
-h3 { margin: 5px auto; font-size: smaller;}
-h4 { margin-bottom: 3px; text-transform: uppercase;}
-.author_desc { text-align: justify; font-size:smaller}
-.source { background-color:lightblue; padding: 0 10px; color: #fff; text-decoration: none;}
