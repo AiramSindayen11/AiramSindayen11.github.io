@@ -6,6 +6,7 @@ font-family: bold;
 }
 
 body { margin: 0 auto;
+    body {Background-color: gray;} 
     display: block;
 }
 
