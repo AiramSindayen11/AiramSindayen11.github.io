@@ -1,32 +1,28 @@
-.pclass { text-align:center; text-family: Arial,Helvetica, sans-serif; font-size: 20px }
+body {
+  background:C7BEA2;
+  font-family:Arial, Helvetica, sans serif;
+  text-transform:uppercase;
+ }
+ table {
+    width: 600px; }
+ 
+  table {background-color: E5DCC3; }
+  table, tr, td, th {
+  border: 2px solid peach;  
+  border-collapse: none;
+  text-allign: center;
+  padding: 5px;
+  margin: 0;
+ }
+ h2 {font-family:verdana;
+ font-size: 17px}
 
-.pitalics { 
-font-style: Italic;
-font-family: bold;
-}
+ Img { width: 100px; }
 
-body { margin: 0 auto;
-    body {Background-color: gray;} 
-    display: block;
-}
+ p { font-size: 12px;
+ font-family: courier }
+ a {font-size: 10px}
 
-.container {
-    max-width: 400px;
-    margin:auto;
-}
+ p, a {text-transform: none;}
 
-section {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-h1 { 
-    margin: 30px auto 0; 
-    text-transform: uppercase;
-}
-
-h3 { margin: 5px auto; font-size: smaller;}
-h4 { margin-bottom: 3px; text-transform: uppercase;}
-.author_desc { text-align: justify; font-size:smaller}
-.source { background-color:lightblue; padding: 0 10px; color: #fff; text-decoration: none;}
+ h2 {font-size: 15px;}
